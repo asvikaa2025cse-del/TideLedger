@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env*
+!.env.example
+backend/.env*
+!backend/.env.example
+*.db
+*.db-journal
+*.tsbuildinfo
+*.log
+.DS_Store
+frontend/vite.config.js
+frontend/vite.config.d.ts
